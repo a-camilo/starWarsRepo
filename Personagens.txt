@@ -1,6 +1,6 @@
-#This is a test how to improve my git skills.
+#Yoda
 
-#To become a better QA professional
+#Darth Vader
 
 
 
