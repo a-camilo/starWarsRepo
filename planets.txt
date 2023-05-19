@@ -2,3 +2,5 @@
 # Mars 
 # Venus
 # Saturn
+# Pluto
+# Mercury
