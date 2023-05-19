@@ -2,5 +2,7 @@
 # Mars 
 # Venus
 # Saturn
+# Pluto
+# Mercury
 # Uranus
 # Neptune
