@@ -4,3 +4,5 @@
 # Saturn
 # Pluto
 # Mercury
+# Uranus
+# Neptune
